@@ -1,0 +1,1 @@
+SCC.txt is of 70 Mb file , adjacency list is made and dumped into SCC_new.txt
